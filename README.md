@@ -1,6 +1,6 @@
 # 📐 Linear Algebra TA Materials
 
-Welcome! 👋 This repository contains supplementary materials I created while serving as a Teaching Assistant (TA) for the **[UE22MA241B]** Linear Algebra course at **[Your University]**.
+Welcome! 👋 This repository contains supplementary materials I created while serving as a Teaching Assistant (TA) for the **[UE22MA241B]** Linear Algebra course at **PES University, RR Campus**.
 This was made taking the book *Applied projects for an introductory linear algebra class* by Anna Zemlyanova as Reference.
 ---
 
